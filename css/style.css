@@ -1,0 +1,513 @@
+@charset "UTF-8";
+
+Nos5{
+    font-size: 33px;
+    text-align: center;
+    box-shadow: #830000 0px 0px 26px;
+}
+body{
+    background-image: url(Deus\ é.jpeg);
+    
+}
+
+#King{
+    width: 500px;
+    border-radius: 32px;
+    box-shadow: #830000 0PX 0PX 23PX;
+}
+
+#REI{
+    width: 500PX;
+    border-radius: 32PX;
+    box-shadow: #830000 0PX 0PX 23PX;
+}
+
+#Coríntios{
+    width: 500px;
+    border-radius: 23px;
+    box-shadow: #830000 0px 0px 32px;
+}
+h1{
+    color: red;
+    text-align: center;
+    text-shadow: white 3px 5px 23px;
+}
+
+section{
+    background-color: #171638;
+    border-radius: 23px;
+    padding: 18px;
+    width: 1500px;
+    margin: 11px auto;
+    color: white;
+    overflow: auto;
+
+}
+
+main{
+     text-align: center;
+     text-transform: uppercase;
+     text-shadow: #171638 5px 5px 8px;
+     color: #E88E39;
+}
+h3,h2{
+    text-align: center;
+}
+
+#Nós{
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+#ph{
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+#luna{
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+p{
+    font-size: 23px;
+}
+
+#sorriso{
+    width: 300px;
+    margin-right: 10px;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 7px 10px 40px;
+    border: 3px solid white;
+
+}
+
+#praia{
+    width: 300px;
+    margin: 10px;
+    float: right;
+    border-radius: 10px;
+}
+
+#vermelho{
+    width: 150px;
+    margin: 10px;
+    border-radius: 10px;
+    float: right;
+}
+#olho{
+     width: 150px;
+    margin: 10px;
+    border-radius: 10px;
+    float: right;
+}
+
+#luz{
+    width: 230px;
+    float: left;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+#careta{
+    width: 250px;
+    float: right;
+    border-radius: 5px;
+    margin: 10px;
+    margin-top: 0px;
+}
+
+#lunaa{
+    width: 150px;
+    border-radius: 8px;
+    float:left;
+    margin-right: 10px;
+    margin-top: 5px;
+    
+}
+
+#dormindo{
+    width: 300px;
+    float: right;
+    border-radius: 18px;
+}
+
+#florzinha{
+    width: 300px;
+    margin-left: 70px;
+    margin-top: 10px;
+    border-radius: 23px;
+}
+
+
+
+#bebeloo{
+    width: 300px;
+    float: left;
+    border-radius: 9px;
+}
+
+#lacinho{
+    width: 180px;
+    float: right;
+    border-radius: 9px;
+}
+
+#linguinha{
+    width: 250px;
+    margin: 0 320px;
+    border-radius: 9px;
+}
+
+#obrigado{
+    width: 300px;
+    float: right;
+    border-radius: 18px;
+}
+
+#joiaa{
+    width: 300px;
+    float: left;
+    border-radius: 15px;
+}
+
+#tiara{
+    width: 500px;
+    border-radius: 23px;
+    margin-left: 180px;
+    border: 15px solid #4090B4;
+}
+
+#sim{
+    width: 500px;
+    float: left;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+#fluxvas{
+    width: 230px;
+    float: left;
+    clear: left;
+    margin: 5px;
+    border-radius: 11px;
+    
+}
+
+#uau{
+    float: right;
+    width: 320px;
+    border: red 5px double;
+}
+
+#biquinho{
+    width: 500px;
+    float: right;
+    border-radius: 30px;
+}
+#circo{
+    width: 500px;
+    float: left;
+    border-radius: 30px;
+}
+#ponte{
+    width: 500px;
+    float: right;
+    border-radius: 30px;
+}
+
+#circoo{
+    width: 500px;
+    border-radius: 20px;
+    float: right;
+}
+#festa{
+    width: 500px;
+    float: right;
+    border-radius: 20px;
+}
+img{
+    margin: 3px;
+}
+
+#graçasaEle{
+    width: 500px;
+    float: inline-end;
+    border-radius: 30px;
+}
+
+#cinemaa{
+    width: 230px;
+    border-radius: 26px;
+    border: 5px solid #FF6B6F;
+}
+
+#shopping{
+    width: 300px;
+    margin-left: 320px;
+    border-radius: 70px;
+    box-shadow: #80A7DC 1px 3px 23px;
+}
+
+#juiz{
+    border-radius: 11px;
+    border: green 10px solid;
+    box-shadow: red 10px 10px 10px;
+    float: left;
+    margin: 18px;
+    
+}
+
+#bola{
+    width: 150px;
+    float: right;
+    margin-top: 41px;
+
+}
+
+#ina{
+    float: right;
+    width: 150px;
+    margin-top: 18px;
+}
+div{
+    border: white solid 18px
+}
+
+#ora{
+    width: 300px;
+}
+
+#olhar{
+    width: 320px;
+    float: right;
+    
+}
+
+#serio{
+    width: 170px;
+}
+
+#beicinho{
+    width: 400px;
+    float: left;
+    margin-right: 30px;
+    border-radius: 50px;
+}
+#car{
+    width: 400px;
+    float: left;
+    border-radius: 18px;
+}
+
+#cavalinho{
+    width: 400px;
+    float: right;
+    border-radius: 100px;
+}
+#hum{
+    width: 230px;
+    margin-left: 14px;
+    border-radius: 4px;
+}
+
+#familiaa{
+    width: 500px;
+    height: 300px;
+    box-shadow: yellow 10px 10px 10px;
+    border-radius: 23px;
+}
+
+#hii{
+    width: 500px;
+    float: right;
+    
+}
+
+ #dia{
+    width: 300px;
+ }
+
+ #beijo{
+    width: 400px;
+ }
+#m{
+    border-radius: 23px;
+}
+
+#canto{
+    width: 300px;
+    float: right;
+    border-radius: 10px;
+    box-shadow: #830000 0px 2px 30px;
+}
+#luz{
+    width: 700px;
+}
+#filha{
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: #FFFFFD 2px 0px 30px
+}
+
+#abraço{
+    width: 500px;
+    border: 18px;
+
+}
+#honra{
+    width: 500px;
+    float: right;
+    padding: 15px;
+}
+
+#rindo{
+    width: 500px;
+    border-radius: 23px;
+    box-shadow: #171638 0px 0px 23px;
+}
+
+#brilho{
+    width: 500px;
+    float: right;
+    border-radius: 23px;
+}
+
+#cruz{
+    width: 500px;
+    float: left;
+    border-radius: 23px;
+    
+}
+
+#kids{
+    float: right;
+}
+
+#rir{
+    width: 500px;
+}
+
+#Is{
+    float: right;
+    width: 200px;
+}
+
+#first{
+    width: 300px;
+    border-radius: 11px;
+    border: yellow solid 7px;
+}
+
+#oii{
+    width: 410px;
+    float: right;
+    border-radius: 2px;
+    border: #80A7DC solid;
+    box-shadow: #FFFFFD 0px 0px 2300px;
+}
+
+#sol{
+    width: 300px;
+}
+
+#pintinhas{
+    width: 230px;
+    float: right;
+    border-radius: 15px;
+}
+
+#paciencia{
+    width: 500px;
+}
+#boa{
+    width: 500px;
+    border-radius: 18px;
+    float: right;
+}
+
+#toalha{
+    width: 300px;
+}
+
+#lindona{
+    width: 500px;
+    float: right;
+    border-radius: 23px;
+    box-shadow: silver 0px 0px 30px;
+    border: white solid 11px;
+}
+
+#vestido{
+    width: 500px;
+    float: inline-start;
+    border-radius: 14px;
+}
+
+#fotos{
+    width: 400px;
+    float: inline-start;
+    border-radius: 30px;
+}
+
+#desenhada{
+    width: 500px;
+    margin-left: 80px;
+    border-radius: 23px;
+    box-shadow: gold 0px 0px 7px;
+}
+
+#papai{
+    width: 500px;
+    display: block;
+    margin: auto;
+    border-radius: 23px;
+    box-shadow: orangered 5px 3px 23px;
+}
+
+#toque{
+    width: 300px;
+    float: right;
+    border-radius: 23px;
+}
+#pulsa{
+    width: 300px;
+    float: right;
+    border-radius: 18px;
+}
+
+#cante{
+    width: 300px;
+    height: 400px;
+    float: right;
+}
+
+#Salvador{
+    width: 1000px;
+    display: block; margin: auto;
+}
+
+#guiados{
+    width: 500px;
+
+}
+
+#forte{
+    width: 410px;
+}
+
+#eii{
+    width: 300px;
+}
+#aii{
+    width: 230px;
+}
+
+#deDeus{
+    width: 800px;
+}
+
